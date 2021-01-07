@@ -34,3 +34,6 @@ Creation of a Database from theorical definition to implementation, using the fo
 The implementation of the database is made in PostgreSQL and its code is reported [here](https://github.com/RaffaDNDM/AutoChef/blob/master/Implementation). You can find also the implementation of the 
 application layer made in Java using JDBC [here](https://github.com/RaffaDNDM/AutoChef/blob/master/Implementation/AutoChef.java).
 You can also find the [presentation](https://github.com/RaffaDNDM/AutoChef/blob/master/HW4_Presentation.pptx) of all the main phases of the project.
+
+### Authors
+The project was developed by [RaffaDNDM](https://github.com/RaffaDNDM), [CristiFab](https://github.com/CristiFab), [DavidePistilli173](https://github.com/DavidePistilli173), [bordignonb](https://github.com/bordignonb), [MatPerin](https://github.com/MatPerin).
